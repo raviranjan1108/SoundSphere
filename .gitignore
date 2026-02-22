@@ -1,0 +1,5 @@
+# node modules folder ignore karo
+node_modules/
+
+# environment file ignore karo
+.env
